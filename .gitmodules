@@ -1,0 +1,3 @@
+[submodule "gradio_space"]
+	path = gradio_space
+	url = https://huggingface.co/spaces/mufaddalhamidofficial/SkimLit
