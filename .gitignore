@@ -5,3 +5,4 @@ gradio_space/
 tensorboard/
 checkpoints/
 skim_lit/
+__MACOSX/
