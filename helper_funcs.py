@@ -303,7 +303,7 @@ def compare_historys(
 import zipfile
 
 
-def unzip_data(filename: str, path_name: str = None):
+def unzip_data(filename: str, path_name: str | None= None):
     """
     Unzips filename into the current working directory.
 
